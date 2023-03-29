@@ -1,2 +1,2 @@
 #!/bin/bash
-rm –r–f /data/DataFiles
+rm –r –f /data/DataFiles
